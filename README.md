@@ -3,7 +3,6 @@ Author: Talal Aftab Tareen
 <br>
 <!--
 **talalaftab/talalaftab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 Author: Talal Aftab Tareen
 - 🔭 I’m currently working on ...
